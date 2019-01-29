@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CanonicalEquation.App": {
+      "commandName": "Project",
+      "commandLineArgs": "SampleInputFile.txt"
+    }
+  }
+}
